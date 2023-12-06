@@ -1,0 +1,2 @@
+.env secret key value
+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
