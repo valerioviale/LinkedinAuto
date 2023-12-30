@@ -1,0 +1,12 @@
+For the second script, a super easy way, in that testing phase, would be to reuse the main script, changing 
+       maxRequests: 1,  
+so it writes only to the first result, main profile
+and deleting {name}, so the only problem now is how to pass our script to the new page, I tried with this Jquery but does not work,
+
+we should target to open class="artdeco-dropdown"
+the logic look has to be different
+
+
+239 sterline x 3
+discount 10%
+IVA 20%
