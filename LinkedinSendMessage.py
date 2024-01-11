@@ -17,8 +17,8 @@ time.sleep(2)
 username = driver.find_element(By.XPATH,"//input[@name='session_key']")
 password = driver.find_element(By.XPATH,"//input[@name='session_password']")
 
-username.send_keys("viale.valerio@gmail.com")  #insert here between " " your username
-password.send_keys("1carnival")                   #insert here between " " your password
+username.send_keys("email@gmail.com")  #insert here between " " your username
+password.send_keys("password")                   #insert here between " " your password
 
 time.sleep(2)
 
