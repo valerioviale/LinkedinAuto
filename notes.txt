@@ -7,6 +7,3 @@ we should target to open class="artdeco-dropdown"
 the logic look has to be different
 
 
-239 sterline x 3
-discount 10%
-IVA 20%
